@@ -1,10 +1,10 @@
-# jf
+# jprett
 Simple json formatter
 
 ## Usage
 
 ```sh
-jf [OPTIONS] <FILE>
+jprett [OPTIONS] <FILE>
 ```
 
 `-i`: Specify indent size. Default is 2.
